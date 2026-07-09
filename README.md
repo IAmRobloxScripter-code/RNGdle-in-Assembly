@@ -9,4 +9,4 @@ Controls are:<br>
 &ensp; l - load<br>
 &ensp; r - roll<br>
 
-you can also click on the button to roll.
+you can also click on the `REROLL` button to roll.
