@@ -4,9 +4,9 @@ To build it: run `make` in the project folder.<br>
 Must have nasm installed. <br>
 
 Controls are:<br>
-&ensp; q - quit
-&ensp; s - save
-&ensp; l - load
-&ensp; r - roll
+&ensp; q - quit<br>
+&ensp; s - save<br>
+&ensp; l - load<br>
+&ensp; r - roll<br>
 
 you can also click on the button to roll.
